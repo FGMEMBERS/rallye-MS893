@@ -3,7 +3,6 @@
 an attempt to model the Socata Rallye MS-893E
 
 Sounds are from the Xplane Rallye by Beber, as well as some texture bits ( wheels )
-HHS did the glass shaders work
 Most of the instruments are borrowed to the Instruments-3d collection
 and most of the configuration files are modified from other aircrafts of various authors
 -->
@@ -12,7 +11,7 @@ and most of the configuration files are modified from other aircrafts of various
  <sim>
 
 	<description>Socata Rallye MS893E</description>
-	<author>Patrice Poly "WooT" ( 3D, FDM ) Beber ( Sounds ) HHS ( shaders )</author>
+	<author>Patrice Poly "WooT" ( 3D, FDM ) Beber ( Sounds )</author>
 
 	<flight-model>yasim</flight-model>
 	<aero>rallye-MS893</aero>

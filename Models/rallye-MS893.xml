@@ -3,64 +3,7 @@
 <PropertyList>
 
  <path>rallye-MS893.ac</path>
- <!--shader-->
  
- <animation>
-		<type>shader</type>
-		<shader>chrome</shader>
-		<texture>Effects/glass_shader.png</texture>
-		
-		<object-name>canopy-plexi</object-name>
-		<object-name>Curve.023</object-name>
-</animation>
-
-<animation>
-		<type>shader</type>
-		<shader>chrome</shader>
-			<texture>Effects/glass_shader_blue.png</texture>
-		
-		<object-name>canopy-plexi_blue</object-name>
-		
-</animation>
-
-<animation>
-		<type>shader</type>
-		<shader>chrome</shader>
-			<texture>Effects/glass_shader_int_down.png</texture>
-		
-		<object-name>canopy-plexi.006</object-name>
-</animation>
-
-<animation>
-		<type>shader</type>
-		<shader>chrome</shader>
-			<texture>Effects/glass_shader_int_front.png</texture>
-		
-		<object-name>Curve</object-name>
-</animation>
-
-<animation>
-		<type>shader</type>
-		<shader>chrome</shader>
-		<texture>Effects/glass_shader_int_side.png</texture>
-		<object-name>canopy-plexi.005</object-name>
-</animation>
-
-<animation>
-		<type>shader</type>
-		<shader>chrome</shader>
-		<texture>Effects/glass_shader_int_side2.png</texture>
-		<object-name>canopy-plexi.008</object-name>
-</animation>
-
-<animation>
-		<type>shader</type>
-		<shader>chrome</shader>
-		<texture>Effects/mirror_shader.png</texture>
-		<object-name>mirror</object-name>
-</animation>
-
-
  
  <model>
 	 <path>Aircraft/Instruments-3d/comp/comp.xml</path>
@@ -441,10 +384,6 @@
 	<type>translate</type>
 	<object-name>canopy-plexi</object-name>
 	<object-name>canopy-back</object-name>
-	<object-name>canopy-plexi.006</object-name>
-	<object-name>canopy-plexi.005</object-name>
-	<object-name>canopy-plexi.008</object-name>
-	<object-name>canopy-plexi_blue</object-name>
 	<property>/controls/door</property>
 	<interpolation>
 		<entry><ind>  0</ind><dep>    0</dep></entry>

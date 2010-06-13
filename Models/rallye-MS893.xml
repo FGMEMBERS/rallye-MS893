@@ -384,7 +384,7 @@
 	<type>translate</type>
 	<object-name>canopy-plexi</object-name>
 	<object-name>canopy-back</object-name>
-	<property>/controls/door</property>
+	<property>controls/door</property>
 	<interpolation>
 		<entry><ind>  0</ind><dep>    0</dep></entry>
 		<entry><ind>  1</ind><dep>    1.3</dep></entry>
@@ -470,7 +470,7 @@
 		<object-name>manche-gauche-tube</object-name>
 		<object-name>manche-droit</object-name>
 		<object-name>manche-droit.tube</object-name>
-		<property>/controls/flight/elevator</property>
+		<property>controls/flight/elevator</property>
 		<interpolation>
 			<entry><ind>  -1</ind><dep>    0.08</dep></entry>
 			<entry><ind>  1</ind><dep>    -0.03</dep></entry>
@@ -486,7 +486,7 @@
 <animation>
 	<type>rotate</type>
 	<object-name>manche-gauche</object-name>
-	<property>/controls/flight/aileron</property>
+	<property>controls/flight/aileron</property>
 	<interpolation>
 		<entry><ind>  -1</ind><dep>    35</dep></entry>
 		<entry><ind>  1</ind><dep>    -35</dep></entry>
@@ -507,7 +507,7 @@
 <animation>
 	<type>rotate</type>
 	<object-name>manche-droit</object-name>
-	<property>/controls/flight/aileron</property>
+	<property>controls/flight/aileron</property>
 	<interpolation>
 		<entry><ind>  -1</ind><dep>    35</dep></entry>
 		<entry><ind>  1</ind><dep>    -35</dep></entry>
@@ -529,7 +529,7 @@
 	<type>rotate</type>
 	<object-name>pilot-l-rudder</object-name>
 	<object-name>copilot-l-rudder</object-name>
-	<property>/controls/flight/rudder</property>
+	<property>controls/flight/rudder</property>
 	<interpolation>
 		<entry><ind>  -1</ind><dep>    15</dep></entry>
 		<entry><ind>  1</ind><dep>    -15</dep></entry>
@@ -550,7 +550,7 @@
 	<type>rotate</type>
 	<object-name>pilot-r-rudder</object-name>
 	<object-name>copilot-r-rudder</object-name>
-	<property>/controls/flight/rudder</property>
+	<property>controls/flight/rudder</property>
 	<interpolation>
 		<entry><ind>  -1</ind><dep>    -15</dep></entry>
 		<entry><ind>  1</ind><dep>    15</dep></entry>
@@ -570,7 +570,7 @@
 <animation>
 	<type>rotate</type>
 	<object-name>htrim</object-name>
-	<property>/controls/flight/elevator-trim</property>
+	<property>controls/flight/elevator-trim</property>
 	<interpolation>
 		<entry><ind>  -0.5</ind><dep>    -180</dep></entry>
 		<entry><ind>  0.5</ind><dep>    180</dep></entry>
@@ -590,7 +590,7 @@
 <animation>
 	<type>rotate</type>
 	<object-name>rtrim</object-name>
-	<property>/controls/flight/aileron-trim</property>
+	<property>controls/flight/aileron-trim</property>
 	<interpolation>
 		<entry><ind>  -0.5</ind><dep>    -180</dep></entry>
 		<entry><ind>  0.5</ind><dep>    180</dep></entry>
@@ -610,7 +610,7 @@
 <animation>
 	<type>translate</type>
 	<object-name>elev-trim-needle</object-name>
-	<property>/controls/flight/elevator-trim</property>
+	<property>controls/flight/elevator-trim</property>
 	<interpolation>
 		<entry><ind>  -0.5</ind><dep>    0.016</dep></entry>
 		<entry><ind>  0.5</ind><dep>    -0.016</dep></entry>
@@ -626,7 +626,7 @@
 <animation>
 	<type>rotate</type>
 	<object-name>throttle-contr</object-name>
-	<property>/controls/engines/engine/throttle</property>
+	<property>controls/engines/engine/throttle</property>
 	<interpolation>
 		<entry><ind>  0</ind><dep>    0</dep></entry>
 		<entry><ind>  1</ind><dep>    -65</dep></entry>
@@ -646,7 +646,7 @@
 <animation>
 	<type>rotate</type>
 	<object-name>mixture-contr</object-name>
-	<property>/controls/engines/engine/mixture</property>
+	<property>controls/engines/engine/mixture</property>
 	<interpolation>
 		<entry><ind>  0</ind><dep>    45</dep></entry>
 		<entry><ind>  1</ind><dep>    -55</dep></entry>
@@ -666,7 +666,7 @@
 <animation>
 	<type>rotate</type>
 	<object-name>park-contr</object-name>
-	<property>/controls/gear/brake-parking</property>
+	<property>controls/gear/brake-parking</property>
 	<interpolation>
 		<entry><ind>  0</ind><dep>    90</dep></entry>
 		<entry><ind>  1</ind><dep>    0</dep></entry>
@@ -686,7 +686,7 @@
 <animation>
 	<type>rotate</type>
 	<object-name>flaps-contr</object-name>
-	<property>/controls/flight/flaps</property>
+	<property>controls/flight/flaps</property>
 	<interpolation>
 		<entry><ind>  0</ind><dep>    -13</dep></entry>
 		<entry><ind>  0.5</ind><dep>    0</dep></entry>

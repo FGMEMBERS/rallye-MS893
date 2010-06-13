@@ -84,7 +84,7 @@ airfoil NACA 63A416 ' closest I found is http://www.ae.uiuc.edu/m-selig/ads/afpl
 <!-- Assume 75% power at 4000ft -->
 
 <!-- FIXME wastegate-mp="37.0" ???  displacement ?? compression ? -->
-<propeller moment="-1.2" x="1.516" y="0" z="0.389" mass="347" radius="0.965" 
+<propeller moment="1.2" x="1.516" y="0" z="0.389" mass="347" radius="0.965" 
 	 cruise-speed="113" cruise-rpm="2640"
 	 cruise-alt="4000" cruise-power="135"
 	 takeoff-power="180" takeoff-rpm="2700">

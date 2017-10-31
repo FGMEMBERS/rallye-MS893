@@ -12,6 +12,13 @@ and most of the configuration files are modified from other aircrafts of various
 
 	<description>Socata Rallye MS893E</description>
 	<author>Patrice Poly "WooT" ( 3D, FDM ) Beber ( Sounds )</author>
+        <status>early production</status>
+        <rating>
+          <FDM type="int">3</FDM>
+          <systems type="int">3</systems>
+          <cockpit type="int">3</cockpit>
+          <model type="int">4</model>
+        </rating>
 
 	<flight-model>yasim</flight-model>
 	<aero>rallye-MS893</aero>

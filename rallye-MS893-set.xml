@@ -23,9 +23,6 @@ and most of the configuration files are modified from other aircrafts of various
 	<flight-model>yasim</flight-model>
 	<aero>rallye-MS893</aero>
 	<fuel-fraction>0.8</fuel-fraction>
-        <multiplay>
-          <fallback-model-index type="int">7</fallback-model-index>
-        </multiplay>
 
 	<startup>
 		<splash-texture>Aircraft/rallye-MS893/splash.png</splash-texture>
@@ -52,6 +49,7 @@ and most of the configuration files are modified from other aircrafts of various
 
 	<model>
 	 <path archive="y">Aircraft/rallye-MS893/Models/rallye-MS893.xml</path>
+         <fallback-model-index type="int">7</fallback-model-index>
 	</model>
 
 <!--  

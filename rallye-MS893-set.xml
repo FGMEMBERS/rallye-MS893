@@ -19,6 +19,19 @@ and most of the configuration files are modified from other aircrafts of various
           <cockpit type="int">3</cockpit>
           <model type="int">4</model>
         </rating>
+        <tags>
+          <tag>ga</tag>
+          <tag>1960s</tag>
+          <tag>1970s</tag>
+          <tag>1980s</tag>
+          <tag>fixed-gear</tag>
+          <tag>stol</tag>
+          <tag>propeller</tag>
+          <tag>piston</tag>
+          <tag>single-engine</tag>
+          <tag>fixed-pitch</tag>
+          <tag>tow</tag> <!-- yes, we can tow gliders, and we're very good at it too -->
+        </tags>
 
 	<flight-model>yasim</flight-model>
 	<aero>rallye-MS893</aero>

@@ -11,7 +11,13 @@ and most of the configuration files are modified from other aircrafts of various
  <sim>
 
 	<description>Socata Rallye MS893E</description>
-	<author>Patrice Poly "WooT" ( 3D, FDM ) Beber ( Sounds )</author>
+        <long-description>
+          A four-seat, low-wing light aircraft with automatic
+          leading-edge slats giving excellent low-speed handling.  The
+          powerful 180-hp engine and benign handling allow you to tow
+          gliders over multiplayer.
+        </long-description>
+	<author>Patrice Poly "WooT" (3D, FDM) Beber (Sounds)</author>
         <status>early production</status>
         <rating>
           <FDM type="int">3</FDM>
